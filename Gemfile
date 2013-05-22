@@ -61,6 +61,7 @@ gem 'seed-fu'
 gem 'sidekiq'
 gem 'sinatra', require: nil
 gem 'slim'  # required for sidekiq-web
+gem 'execjs'
 gem 'therubyracer', require: 'v8'
 gem 'thin'
 gem 'diffy', require: false
